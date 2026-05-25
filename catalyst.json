@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "fci-workspace"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

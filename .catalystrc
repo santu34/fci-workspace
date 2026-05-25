@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "58120000000037001",
+      "name": "FCI-Workspace",
+      "domain": {
+        "id": "10126002055",
+        "name": "fci-workspace-921444212.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "921444212",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

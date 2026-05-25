@@ -1,0 +1,10 @@
+{
+	"name": "fci-workspace",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "k-santhosh@funaiconsulting.in",
+	"dependencies": {
+		"axios": "^1.16.1",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
